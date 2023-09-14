@@ -138,15 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/Nostromos/hackereddit/issues) for a full list of proposed features (and known issues).
+See the [project roadmap](https://github.com/users/Nostromos/projects/3/views/2) for a list of planned features and up-to-date information on progress.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
